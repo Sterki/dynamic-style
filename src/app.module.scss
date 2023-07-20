@@ -1,0 +1,27 @@
+.container {
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.default {
+    background-color: black;
+}
+.bikes {
+    background-color: green;
+}
+
+.autos {
+    background-color: red;
+}
+
+.toys {
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+}
+
+

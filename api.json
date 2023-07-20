@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "type": "bikes",
+            "name": "BMX 120 e",
+            "price": 240000
+        },
+        {
+            "type": "autos",
+            "name": "BMW 1.5",
+            "price": 3600000
+        },
+        {
+            "type": "bikes",
+            "name": "TRECK 4",
+            "price": 680000
+        },
+        {
+            "type": "toys",
+            "name": "BOA SNAKE",
+            "price": 30000
+        }
+    ] 
+}
